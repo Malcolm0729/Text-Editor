@@ -39,11 +39,15 @@ This application has no license.
 ## Tests
 
 
-##Technologies
+## Technologies
 
 1. Node.js
 2. Webpack
 3. Babel
 4. NPM Packages
+
+## Questions
+
+If you have any questions feel free to contact me at malcolm2345@outlook.com
 
 
