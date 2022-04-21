@@ -32,5 +32,18 @@ You must have node.js installed
 - [Tests](tests)
 - [Questions](#questions)
 
+## License
+
+This application has no license.
+
+## Tests
+
+
+##Technologies
+
+1. Node.js
+2. Webpack
+3. Babel
+4. NPM Packages
 
 
