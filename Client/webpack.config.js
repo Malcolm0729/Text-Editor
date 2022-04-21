@@ -17,8 +17,8 @@ module.exports = () => {
         },
         plugins: [
             new HtmlWebpackPlugin({
+              template: './index.html',
                 title: 'Text Editor'
-                template: './index.html',
             }),
 
             new InjectManifest({
