@@ -20,6 +20,6 @@ Then build the application
 
 ## Usage
 
-You must have { node.js } installed
+You must have {node.js} installed
 
 
