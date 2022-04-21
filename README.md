@@ -20,7 +20,7 @@ Then build the application
 
 ## Usage
 
-You must have node.js installed
+You must have node.js installed, Once installed, run the command through your terminal to start the local server on your local host: http://localhost:3000/:
 
 ## Table Of Contents
 
