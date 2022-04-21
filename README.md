@@ -14,8 +14,12 @@ To install necessary dependencies after cloning the repository, run the followin
 
 # npm i
 
-hen build the application
+Then build the application
 
 # npm run build
+
+## Usage
+
+You must have { node.js } installed
 
 
